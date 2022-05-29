@@ -10,5 +10,6 @@ package chapter08;
 public class TestFileHeader {
     public static void main(String[] args){
         System.out.println("asdsdasdasd");
+        System.out.println("asdsdasdasd");
     }
 }
