@@ -8,5 +8,7 @@ package chapter08;
  * @ Copyright (C) 2022$ marzsccc. All rights reserved.
  */
 public class TestFileHeader {
-
+    public static void main(String[] args){
+        System.out.println("asdsdasdasd");
+    }
 }
